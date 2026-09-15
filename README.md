@@ -1,6 +1,6 @@
 # Databricks-Data-Warehouse-Star-Schema
 
-E-commerce Data Warehouse built with Databricks, Delta Lake & SQL using Staging, Core, Data Mart layers and Star Schema modelling.
+Designed and implemented an E-commerce Data Warehouse in Databricks using SQL, with Staging, Core, and Data Mart layers, including data cleansing, deduplication, NULL handling, surrogate keys, and Star Schema modelling.
 
 ## Architecture
 
